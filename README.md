@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Giovanne Batista 👋
 
-- 🔭 Atualmente, estou fazendo o curso de FRONT-END COMPLETO pela plataforma EAD Dankicode.
+- ☕ Atualmente, estou fazendo o curso de FRONT-END COMPLETO pela plataforma EAD Dankicode.
 - 💬 Contate-me no Email: giovannebatistasilva@gmail.com 
 
 <div>
